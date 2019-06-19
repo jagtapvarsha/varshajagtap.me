@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a131003c-6889-4ca8-be27-948f9a3f455d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/img/hero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/hero.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="90" column="4" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
-              <folding>
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="377">
+              <caret line="48" column="22" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="48" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -67,6 +65,9 @@
     <findStrings>
       <find>hero.j</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -137,12 +138,12 @@
       <workItem from="1559287453971" duration="365000" />
       <workItem from="1559288417804" duration="2000" />
       <workItem from="1559288518144" duration="231000" />
-      <workItem from="1560949405381" duration="778000" />
+      <workItem from="1560949405381" duration="2944000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4315000" />
+    <option name="totallyTimeSpent" value="6481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -232,11 +233,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="90" column="4" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="377">
+          <caret line="48" column="22" lean-forward="true" selection-start-line="45" selection-start-column="16" selection-end-line="48" selection-end-column="22" />
         </state>
       </provider>
     </entry>
